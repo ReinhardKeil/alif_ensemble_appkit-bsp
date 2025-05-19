@@ -11,7 +11,8 @@ Directory                      | Description
 [build/config](./build/config) | JSON configuration files.
 [build/images](./build/images) | Binaries containing application stubs.
 
-One can copy `build` directory into SETOOLS installation root.
+> [!IMPORTANT]
+> The content of this `./build` directory must be copied to the SETOOLS installation root directory. 
 
 ## Debug M55_HE (single core)
 
